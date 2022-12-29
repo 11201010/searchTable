@@ -1,0 +1,29 @@
+{
+	"products": [
+		{
+			"id": "069662",
+			"name": "Eurodin 2mg",
+			"address": "右5"
+		},
+		{
+			"id": "122702",
+			"name": "Lexotan 3mg",
+			"address": "左2"
+		},
+		{
+			"id": "125451",
+			"name": "Trajenta 5mg",
+			"address": "T43"
+		},
+		{
+			"id": "139889",
+			"name": "Rivotril 0.5mg",
+			"address": "左2"
+		},
+		{
+			"id": "145785",
+			"name": "Muaction 100mg",
+			"address": "左6"
+		}
+	]
+}
