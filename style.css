@@ -1,3 +1,7 @@
+* {
+	font-family: "Microsoft YaHei", Helvetica, Arial, Lucida Grande, Tahoma,
+		sans-serif;
+}
 input {
 	width: 100%;
 }
@@ -20,6 +24,6 @@ tr:hover {
 	background-color: #d6eeee;
 }
 
-.hide {
+.hidden {
 	display: none;
 }
