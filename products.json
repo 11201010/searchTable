@@ -1,29 +1,29 @@
 {
 	"products": [
 		{
-			"id": "069662",
-			"name": "Eurodin 2mg",
-			"address": "右5"
+			"id": "06962",
+			"name": "Eurin 2mg",
+			"address": "R5"
 		},
 		{
-			"id": "122702",
-			"name": "Lexotan 3mg",
-			"address": "左2"
+			"id": "12702",
+			"name": "Lotan 3mg",
+			"address": "L2"
 		},
 		{
-			"id": "125451",
-			"name": "Trajenta 5mg",
-			"address": "T43"
+			"id": "12451",
+			"name": "Trenta 5mg",
+			"address": "T3"
 		},
 		{
-			"id": "139889",
-			"name": "Rivotril 0.5mg",
-			"address": "左2"
+			"id": "13989",
+			"name": "Rotril 0.5mg",
+			"address": "L2"
 		},
 		{
-			"id": "145785",
-			"name": "Muaction 100mg",
-			"address": "左6"
+			"id": "14585",
+			"name": "Mution 100mg",
+			"address": "L6"
 		}
 	]
 }
